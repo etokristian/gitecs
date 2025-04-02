@@ -1,3 +1,3 @@
 import sys
 def handler(event, context):
-    return 'Hello from AAWS Lambda using Python' + sys.version + '!'
+    return 'Hello World, this is Christian from AWS Lambda using Python' + sys.version + '!'
